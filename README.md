@@ -1,1 +1,2 @@
-# Movie-Database-Project
+# Movie-Database-Project 🎥
+With the MovieLens database consists of data for over 45,000 movies, with approximately 100,000 reviews in MovieLens-100K.db and a little more than 26 million reviews in MovieLens-26M.db, the goal of this project is to write a console-based database application in Python, this time using an N-tier design, where using both SQL and Python, this project will work more with Object Relational Mapping in order to retrieve different queries that access various fields in the movies database containing information about the movies.
